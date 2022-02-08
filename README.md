@@ -1,1 +1,2 @@
-# PREDICTION-USING-DECISION-TREE-ALGORITHM
+# PREDICTION-USING-DECISION-TREE-ALGORITHM...
+in this we need to Create Decision Tree Classifier and visualize it graphically If we feed new data to this classifier, it would be able to predict the right class accordingly
